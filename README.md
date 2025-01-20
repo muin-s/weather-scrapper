@@ -1,4 +1,4 @@
-#TeamX
+# TeamX
 
 
 ## Topic 16: Air Quality Index Prediction
@@ -19,6 +19,7 @@ The following websites are utilized to gather weather information:
 - Supports multiple locations
 
 TeamX
-Muin Sayyad 
-Ayushmaan Singh
-Raghu Nandan
+
+-Muin Sayyad 
+-Ayushmaan Singh
+-Raghu Nandan
