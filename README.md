@@ -1,9 +1,10 @@
 #TeamX
 
-# Weather Scraper
+
+## Topic 16: Air Quality Index Prediction
 
 ## Overview
-This project is a **Weather Scraper** that collects weather data from multiple online sources. 
+This repository currently has files that has weather data from multiple online sources. 
 
 ## Websites Used for Web Scraping
 The following websites are utilized to gather weather information:
